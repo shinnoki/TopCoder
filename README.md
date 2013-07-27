@@ -5,7 +5,7 @@ My solutions of TopCoder(<http://www.topcoder.com>) problems.
 
 [html2text]
 
-        html2text -nobs -style pretty -o ~.md ~.html
+        html2text -nobs -style pretty -o README.md *.html
         
 shell script is to be implemented.
 
