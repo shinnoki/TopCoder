@@ -1,4 +1,4 @@
-******** PPrroobblleemm SSttaatteemmeenntt ********
+**** Problem Statement ****
      Let A be a sequence of integers. We want to create this sequence as a
      concatenation of some (one or more) strictly increasing sequences. The
      LISNumber of A is the smallest number of strictly increasing sequences we
@@ -14,8 +14,8 @@
      Note that the optimal way of writing a sequence as a concatenation of some
      strictly increasing sequences is always unique.
 
-     You are given a int[] sseeqq. Return the LISNumber of the sequence sseeqq.
-******** DDeeffiinniittiioonn ********
+     You are given a int[] seq. Return the LISNumber of the sequence seq.
+**** Definition ****
      Class:            LISNumberDivTwo
      Method:           calculate
      Parameters:       int[]
@@ -23,10 +23,10 @@
      Method signature: int calculate(int[] seq)
      (be sure your method is public)
     
-******** CCoonnssttrraaiinnttss ********
-  -  sseeqq will contain between 1 and 50 elements, inclusive.
-  -  Each element of sseeqq will be between 1 and 50, inclusive.
-******** EExxaammpplleess ********
+**** Constraints ****
+  -  seq will contain between 1 and 50 elements, inclusive.
+  -  Each element of seq will be between 1 and 50, inclusive.
+**** Examples ****
  0)
      {1, 4, 4, 2, 6, 3}
      Returns: 4
@@ -35,7 +35,7 @@
  1)
      {5, 8, 9, 12, 16, 32, 50}
      Returns: 1
-     In this case, sseeqq itself is already strictly increasing. Thus,
+     In this case, seq itself is already strictly increasing. Thus,
      the LISNumber of this sequence is 1.
  2)
      {1, 1, 9, 9, 2, 2, 3, 3}
