@@ -8,3 +8,10 @@
 *.jar
 *.war
 *.ear
+
+# Eclipse Files #
+/.metadata/
+bin/
+.classpath
+.project
+.settings/
