@@ -48,11 +48,11 @@ Examples
 
 
 
-       {&quot;Z&quot;}
+       {"Z"}
 
 
     
-       Returns: &quot;Yes&quot;
+       Returns: "Yes"
 
 
      One of the possible colorings is as
@@ -63,12 +63,12 @@ Examples
 
 
 
-       {&quot;NZ&quot;
-       ,&quot;NZ&quot;}
+       {"NZ"
+       ,"NZ"}
 
     
 
-       Returns: &quot;Yes&quot;
+       Returns: "Yes"
 
 
 
@@ -77,12 +77,12 @@ Examples
 
 
 
-       {&quot;ZZZ&quot;
-       ,&quot;ZNZ&quot;}
+       {"ZZZ"
+       ,"ZNZ"}
 
     
 
-       Returns: &quot;No&quot;
+       Returns: "No"
 
 
 
@@ -91,17 +91,17 @@ Examples
 
 
 
-       {&quot;NZNZNNN&quot;
-       ,&quot;NNZNNNZ&quot;
-       ,&quot;NNNNZZZ&quot;
-       ,&quot;ZZZNZZN&quot;
-       ,&quot;ZZNZNNN&quot;
-       ,&quot;NZZZZNN&quot;
-       ,&quot;ZZZNZNN&quot;}
+       {"NZNZNNN"
+       ,"NNZNNNZ"
+       ,"NNNNZZZ"
+       ,"ZZZNZZN"
+       ,"ZZNZNNN"
+       ,"NZZZZNN"
+       ,"ZZZNZNN"}
 
 
 
-       Returns: &quot;No&quot;
+       Returns: "No"
 
 
 
@@ -110,13 +110,13 @@ Examples
 
 
 
-       {&quot;ZZZZ&quot;
-       ,&quot;ZZZZ&quot;
-       ,&quot;ZZZZ&quot;}
+       {"ZZZZ"
+       ,"ZZZZ"
+       ,"ZZZZ"}
     
 
 
-       Returns: &quot;Yes&quot;
+       Returns: "Yes"
 
 
 

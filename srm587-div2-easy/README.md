@@ -44,14 +44,14 @@ Examples
 
 
 
-       &quot;fox&quot;
+       "fox"
 
 
-       &quot;fozx&quot;
+       "fozx"
 
     
 
-       Returns: &quot;Yes&quot;
+       Returns: "Yes"
 
 
      By inserting 'z' to the position bettween 'o' and 'x' in "fox", we
@@ -62,14 +62,14 @@ Examples
 
 
 
-       &quot;fox&quot;
+       "fox"
 
 
-       &quot;zfzoxzz&quot;
+       "zfzoxzz"
 
     
 
-       Returns: &quot;Yes&quot;
+       Returns: "Yes"
 
 
      You may perform the operation multiple
@@ -80,14 +80,14 @@ Examples
 
 
 
-       &quot;foon&quot;
+       "foon"
 
 
-       &quot;foon&quot;
+       "foon"
 
     
 
-       Returns: &quot;Yes&quot;
+       Returns: "Yes"
 
 
      In this case init and goal are equal. You do not have to perform
@@ -98,14 +98,14 @@ Examples
 
 
 
-       &quot;topcoder&quot;
+       "topcoder"
 
 
-       &quot;zopzoder&quot;
+       "zopzoder"
     
 
 
-       Returns: &quot;No&quot;
+       Returns: "No"
 
 
 
@@ -114,14 +114,14 @@ Examples
 
 
 
-       &quot;aaaaaaaaaa&quot;
+       "aaaaaaaaaa"
 
 
-       &quot;a&quot;
+       "a"
     
 
 
-       Returns: &quot;No&quot;
+       Returns: "No"
 
 
 
@@ -130,14 +130,14 @@ Examples
 
 
 
-       &quot;mvixrdnrpxowkasufnvxaq&quot;
+       "mvixrdnrpxowkasufnvxaq"
 
 
-       &quot;mvizzxzzzrdzznzrpxozzwzzkazzzszzuzzfnvxzzzazzq&quot;
+       "mvizzxzzzrdzznzrpxozzwzzkazzzszzuzzfnvxzzzazzq"
     
 
 
-       Returns: &quot;Yes&quot;
+       Returns: "Yes"
 
 
 
@@ -146,14 +146,14 @@ Examples
 
 
 
-       &quot;opdlfmvuicjsierjowdvnx&quot;
+       "opdlfmvuicjsierjowdvnx"
 
 
-       &quot;zzopzdlfmvzuicjzzsizzeijzowvznxzz&quot;
+       "zzopzdlfmvzuicjzzsizzeijzowvznxzz"
     
 
 
-       Returns: &quot;No&quot;
+       Returns: "No"
 
 
 
